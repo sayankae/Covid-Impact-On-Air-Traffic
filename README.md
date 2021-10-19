@@ -51,7 +51,7 @@ Install Kaggle
 !pip install kaggle
 ```
 
-## Import Dataet
+## Import Dataset
 
 Kaggle requires special auth key to communicate with its dataset. To further know how to
 tranfer data from Kaggle to Google colab. PLease refer to the wonderful article written by
