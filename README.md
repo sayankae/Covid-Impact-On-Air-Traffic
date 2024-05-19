@@ -54,7 +54,7 @@ Install Kaggle
 ## Import Dataset
 
 Kaggle requires special auth key to communicate with its dataset. To further know how to
-tranfer data from Kaggle to Google colab. PLease refer to the wonderful article written by
+transfer data from Kaggle to Google colab. PLease refer to the wonderful article written by
 Kaustubh Gupta.
 [Article Here](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
 
